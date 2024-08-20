@@ -4,7 +4,7 @@ A basic ToDo App using HTML, CSS, JavaScript using CRUD
 
 ## Technologies Used
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="[https://developer.mozilla.org/en-US/docs/Web/HTML](https://www.w3.org/Style/CSS/Overview.en.html)" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
